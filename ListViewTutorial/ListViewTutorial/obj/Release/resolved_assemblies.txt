@@ -1,0 +1,9 @@
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\ListViewTutorial.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\Java.Interop.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\Mono.Android.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\mscorlib.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\System.Core.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\System.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\System.Xml.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\USER\documents\visual studio 2015\Projects\ListViewTutorial\ListViewTutorial\obj\Release\android\assets\System.ServiceModel.Internals.dll
